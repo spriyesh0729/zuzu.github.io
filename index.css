@@ -1,0 +1,20 @@
+/*
+EXTERNAL STYLE SHEET
+*/
+body{
+    width: 100%;
+    height: 100% ;
+    margin: 0;
+    
+
+}
+
+
+.form-signin {
+    width: 100%;
+    height: 100%;
+    max-width: 420px;
+    padding: 15px;
+    margin: auto;
+    background-color: rgb(253, 251, 251);
+}
